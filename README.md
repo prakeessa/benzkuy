@@ -5,8 +5,8 @@ BAHAN :
 TUTOR :
 1. Open Git bash
 2. cd
-3. git clone https://github.com/Lingga2160/Thisforyou
-4. cd Thisforyou
+3. git clone https://github.com/prakeessa/benzkuy
+4. cd benzkuy
 5. ls
 6. php fft.php
 
